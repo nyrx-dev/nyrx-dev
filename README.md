@@ -15,8 +15,8 @@ Outside of uni, I spend most of my time building APIs, web apps, and small tools
 
 ### A few things I've built
 
-- **[`agent-dsl`](https://github.com/nyrx-dev/agent-dsl):** A small statically-typed language and LSP in Haskell for running fixed, schema-checked AI workflows against MCP servers.
-- **[`WoWItemPricer`](https://github.com/nyrx-dev/WoWItemPricer):** A Python script on GitHub Actions that tracks and plots World of Warcraft commodity prices over time.
+- **[agent-dsl](https://github.com/nyrx-dev/agent-dsl):** A small statically-typed language and LSP in Haskell for running fixed, schema-checked AI workflows against MCP servers.
+- **[WoWItemPricer](https://github.com/nyrx-dev/WoWItemPricer):** A Python script on GitHub Actions that tracks and plots World of Warcraft commodity prices over time.
 
 - **[Emotion classifier](https://github.com/Steentoft/emotion_classifier):** A group machine-learning project for classifying emotions in text. I worked on data preparation, training and evaluation, including F1 scoring and early stopping.
 - **[Haskell Snake](https://github.com/nyrx-dev/HaskellExam) (course project):** A two-player Snake game built with an embedded Haskell language on a course-provided framework.
