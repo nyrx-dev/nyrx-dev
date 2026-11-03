@@ -15,7 +15,6 @@ Outside of uni, I spend most of my time building APIs, web apps, and small tools
 
 ### A few things I've built
 
-- **[`agent-dsl`](https://github.com/nyrx-dev/agent-dsl):** A small statically-typed language and LSP in Haskell for running fixed, schema-checked AI workflows against MCP servers.
-- **[`n8n-nodes-toneapi`](https://github.com/nyrx-dev/n8n-nodes-toneapi):** An n8n community node for a tone-of-voice API and dashboard I built.
+- **agent-dsl (private):** A small statically-typed language and LSP in Haskell for running fixed, schema-checked AI workflows against MCP servers.
 - **[`WoWItemPricer`](https://github.com/nyrx-dev/WoWItemPricer):** A Python script on GitHub Actions that tracks and plots World of Warcraft commodity prices over time.
 
